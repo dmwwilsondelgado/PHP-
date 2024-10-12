@@ -11,3 +11,6 @@
 <a href="/O1_BASICOS/operadores_logicos.php">operadores Logicos</a>
 <a href="/O1_BASICOS/icremento_decremento.php">incremento decremento</a>
 <a href="/O1_BASICOS/condicionales_simples.php">Condicionales _ simples</a>
+<a href="/O1_BASICOS/condicionables_doblre.php">Condicionales _ dobles</a>
+<a href="/O1_BASICOS/condicionales_anidados.php">Condicionales _ anidados</a>
+<a href="/O1_BASICOS/swicth.php">switch</a>
