@@ -9,3 +9,5 @@
 <a href="/O1_BASICOS/asignacion_por referncia.php">Asinacion por referencia</a>
 <a href="/O1_BASICOS/operadores_de_comparacion.php">operadores de compoaracion</a>
 <a href="/O1_BASICOS/operadores_logicos.php">operadores Logicos</a>
+<a href="/O1_BASICOS/icremento_decremento.php">incremento decremento</a>
+<a href="/O1_BASICOS/condicionales_simples.php">Condicionales _ simples</a>
